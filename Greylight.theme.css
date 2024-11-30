@@ -1,0 +1,19 @@
+/**
+ * @name Greylight
+ * @author Kira 290X
+ * @version 1.1
+ * @source:
+ */
+ :root {
+    --primary-530: rgba(100, 100, 100, 0.7);
+    --primary-700: rgb(100, 100, 100, 0.7);
+    --primary-600: rgb(100, 100, 100, 0.7);
+    --background-accent: color-mix(in oklab, var(--primary-530) 100%);
+    --guild-notifications-bottom-sheet-pill-background: color-mix(in oklab, var(--primary-700) 100%);
+    --background-primary: color-mix(in oklab, var(--primary-600) 100%);
+    --background-secondary: color-mix(in oklab, var(--primary-600) 100%);
+    --channeltextarea-background:rgb(100, 100, 100, 0.7);
+    .container_b2ca13 {
+        background-color: rgb(120, 120, 120, 0.7);
+    }
+}
